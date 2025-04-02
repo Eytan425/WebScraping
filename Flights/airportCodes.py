@@ -30,3 +30,22 @@ def FindAirport(country, airport_dict):
     
     return airports_in_country
 
+# Departure Location (From):
+
+# id="outbound-origin-location-input"
+
+# Destination (To):
+
+# id="outbound-destination-location-input"
+
+# Departure Date:
+
+# id="outbound-departure"
+
+# Return Date (if applicable):
+
+# id="returnBound-departure"
+
+# Passenger Count:
+
+# id="passenger-counters-input"
